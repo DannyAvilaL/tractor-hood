@@ -32,7 +32,7 @@ For the Mega, is important having the library used for the FreeRTOS implementati
 For the NodeMCU, since it works with the Arduino IoT Cloud, is a must having the following library, also available in the IDE library administrator:
 - ArduinoIoTCloud (*install dependencies also [Arduino ConnectionHandler library]*)
 
-For both microcontrollers, Mega and NodeMCU, is important the use of the following CAN library, since is the only one compatible with the model of Node used in this implementatio (Esp8266).
+For both microcontrollers, Mega and NodeMCU, is important the use of the following CAN library, since is the only one compatible with the model of Node used in this implementation (Esp8266).
 - Arduino MCP2515 (https://github.com/autowp/arduino-mcp2515)
 
 **Note:** *Make sure to have the libraries in the correct libraries path in order to make it work and prevent errors.*
