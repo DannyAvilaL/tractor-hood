@@ -44,7 +44,7 @@ For the microcontroller connected to the servomotors, use:
 - **ArduinoMega2560_TwoServo** if you will use both servomotors
 
 ## Schematic
-In the following picture, it's visible how the connections were made.
+In the following pictures, it's visible how the connections were made.
 
 Using 2 servomotors:
 
