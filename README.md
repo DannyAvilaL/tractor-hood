@@ -1,9 +1,9 @@
 # Tractor Hood Manipulation
 ## Authors
 This project was developed by:
-- Nancy L. García Jiménez @Supernovanan
-- Daniela Avila Luna @DannyAvilaL
-- Roberto David Manzo González @robertomanzo2203
+- Nancy L. García Jiménez @Supernovanan [@Supernovanan](https://github.com/Supernovanan)
+- Daniela Avila Luna [@DannyAvilaL](https://github.com/DannyAvilaL)
+- Roberto David Manzo González [@robertomanzo2203](https://github.com/robertomanzo2203)
 
 ## About
 This repository contains the source codes, the schematic of connections and the libraries necessaries for the implementation of a prototipe to manipulate the state of the hood of a tractor using the CAN communication protocol and with communication with the Arduino IoT Cloud.
