@@ -45,6 +45,7 @@ For the microcontroller connected to the servomotors, use:
 
 ## Schematic
 In the following picture, it's visible how the connections were made.
+
 <a href="url"><img src="Figures/esquema2motores.jpg" align="center" height="400" width="440" ></a>
 <a href="url"><img src="Figures/esquema1motor.jpg" align="center" height="400" width="440" ></a>
 
