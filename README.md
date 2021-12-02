@@ -14,13 +14,15 @@ We used 2 microcontrollers for this implementation.
 - NodeMCU Esp8266 (*Esp32 is highly recommended for this implementation*)
 
 For the CAN protocol, we used the transceivers MCP2515.
-[](Figures/mcp2515.jpg)
+<a href="url"><img src="Figures/mcp2515.jpg" align="center" height="120" width="120" ></a>
+
 
 For the actuators we used
 - 1 servomotor SG90
-[](Figures/ServoSG90.jpg)
+<a href="url"><img src="Figures/ServoSG90.jpg" align="center" height="120" width="120" ></a>
+
 - 1 continuous servomotor
-[](Figures/ServoContinuous.jpg)
+<a href="url"><img src="Figures/ServoContinuous.jpg" align="center" height="120" width="120" ></a>
 ## Code
 
 ### Libraries
