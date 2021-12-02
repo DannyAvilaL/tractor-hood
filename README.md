@@ -1,7 +1,7 @@
 # Tractor Hood Manipulation
 ## Authors
 This project was developed by:
-- Nancy L. García Jiménez @Supernovanan [@Supernovanan](https://github.com/Supernovanan)
+- Nancy L. García Jiménez [@Supernovanan](https://github.com/Supernovanan)
 - Daniela Avila Luna [@DannyAvilaL](https://github.com/DannyAvilaL)
 - Roberto David Manzo González [@robertomanzo2203](https://github.com/robertomanzo2203)
 
