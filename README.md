@@ -45,8 +45,8 @@ For the microcontroller connected to the servomotors, use:
 
 ## Schematic
 In the following picture, it's visible how the connections were made.
-<a href="url"><img src="Figures/esquema2motores.jpg" align="center" height="200" width="240" ></a>
-<a href="url"><img src="Figures/esquema1motor.jpg" align="center" height="200" width="240" ></a>
+<a href="url"><img src="Figures/esquema2motores.jpg" align="center" height="400" width="440" ></a>
+<a href="url"><img src="Figures/esquema1motor.jpg" align="center" height="400" width="440" ></a>
 
 ## Arduino IoT Cloud Connection
 For the reference on how to connect the NodeMCU to the IoT Cloud, please refer to the following tutorial from Arduino: https://docs.arduino.cc/cloud/iot-cloud/tutorials/esp-32-cloud
